@@ -1,0 +1,33 @@
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# SQLite database
+*.sqlite3
+
+# Environment variables
+*.env
+
+# Log files
+*.log
+
+# Virtual environment
+venv/
+env/
+
+# Node.js dependencies
+node_modules/
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled static files
+staticfiles/
+
+# Local development settings
+local_settings.py
